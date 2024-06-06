@@ -27,3 +27,30 @@ To set up this project, you need to have Python installed. Follow these steps:
    pip install -r requirements.txt
 
 
+## Usage
+   To run the Jupyter Notebook and execute the code:
+   
+   1. Start the Jupyter Notebook server:
+      ```bash
+      jupyter notebook
+   2. Open CPU_Performance_Prediction.ipynb and run the cells to see the analysis and prediction model.
+
+## Project Structure
+   CPU_Performance_Prediction.ipynb: The main Jupyter Notebook containing the data analysis and model development.
+   requirements.txt: List of required Python packages.
+   
+## Methodology
+   The project involves the following steps:
+
+   Data Preprocessing: Cleaning and preparing the data for analysis.
+   Exploratory Data Analysis (EDA): Understanding the data through visualization and statistical analysis.
+   Model Development: Building and evaluating machine learning models to predict CPU performance.
+   Evaluation: Assessing the model's accuracy and performance using appropriate metrics.
+   Contributing
+   Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+T   his project is licensed under the MIT License.
+
+
+
