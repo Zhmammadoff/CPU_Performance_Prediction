@@ -1,2 +1,20 @@
-# CPU_Performance_Prediction
-This project focuses on predicting the performance of CPUs based on various parameters such as cycle time and memory capacity. The goal is to develop a model that can accurately forecast CPU performance to aid in selecting optimal hardware for data science and machine learning tasks.  of machine learning algorithms to build a predictive model.
+# CPU Performance Prediction
+
+## Project Description
+This project aims to forecast the performance of CPUs characterized by parameters such as cycle time and memory capacity. The purpose is to assist in selecting optimal hardware for data science and machine learning tasks by developing a predictive model that accurately estimates CPU performance.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Methodology](#methodology)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+To set up this project, you need to have Python installed. Follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/CPU_Performance_Prediction.git
+   cd CPU_Performance_Prediction
