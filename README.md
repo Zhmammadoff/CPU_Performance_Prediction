@@ -42,11 +42,12 @@ To set up this project, you need to have Python installed. Follow these steps:
 ## Methodology
    The project involves the following steps:
 
-   Data Preprocessing: Cleaning and preparing the data for analysis.
-   Exploratory Data Analysis (EDA): Understanding the data through visualization and statistical analysis.
-   Model Development: Building and evaluating machine learning models to predict CPU performance.
-   Evaluation: Assessing the model's accuracy and performance using appropriate metrics.
-   Contributing
+   . Data Preprocessing: Cleaning and preparing the data for analysis.
+   . Exploratory Data Analysis (EDA): Understanding the data through visualization and statistical analysis.
+   . Model Development: Building and evaluating machine learning models to predict CPU performance.
+   . Evaluation: Assessing the model's accuracy and performance using appropriate metrics.
+   
+## Contributing
    Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
