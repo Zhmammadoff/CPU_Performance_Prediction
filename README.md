@@ -16,7 +16,7 @@ To set up this project, you need to have Python installed. Follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zhmammadoff/CPU_Performance_Prediction.git
+   git clone https://github.com/zhmammadoff/CPU_Performance_Prediction_with_LazyPredict.git
    cd CPU_Performance_Prediction
 2. Create a virtual environment and activate it:
    ```bash
